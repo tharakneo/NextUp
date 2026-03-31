@@ -1,6 +1,12 @@
 data/
 __pycache__/
+*.pyc
 *.parquet
 *.csv
 *.pkl
 .ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+*.log
+.streamlit/secrets.toml
